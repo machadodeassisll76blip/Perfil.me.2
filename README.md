@@ -1,2 +1,1 @@
-# Trabalho-do-john
-trabalho de john no dia 25 de junho de 2026
+Bateu um tedio numa sexta a noite qualquer e vim codar, pois não estou com sono.
